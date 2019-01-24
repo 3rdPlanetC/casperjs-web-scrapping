@@ -3,6 +3,7 @@ Web scrapping testing by automatic puller
 
 Before starting to use casperjs
 1. Download file phantomjs folder and casper folder in C:/ directory
+   - 
 2. set environment in system variable and user variable is "PATH"
    - C:/casperjs/bin
    - C:/phantomjs/bin/phantomjs
